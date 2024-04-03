@@ -49,3 +49,4 @@ oyna = try2()
 oyna.show()
 flex.exec()
 
+print("hello")
